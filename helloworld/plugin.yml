@@ -1,0 +1,9 @@
+name: helloworld
+main: main.main
+version: 1.0.0
+author: 7roub1e
+commands:
+    gm:
+        description: Change gamemode
+    channel:
+        description: fucking channel!!!!!!!!!!!!!!
